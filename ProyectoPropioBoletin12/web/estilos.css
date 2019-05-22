@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-may-2019, 10:26:21
+    Author     : Jesus Triguero
+*/
+body{
+  font-family: 'Didact Gothic', sans-serif;
+  margin: 100px;
+  background-color: #fffee3;
+}
+
+#cajaPrincipal {
+  padding: 5px;
+  font-size: 20px;
+  border: 5px solid rgba(0,0,0,0.5);
+  -webkit-box-shadow: 10px 10px 25px -9px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 25px -9px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 25px -9px rgba(0,0,0,0.75);
+}
+
+#cajaPrincipal header, #cajaPrincipal footer {
+    background-color: #fffb92;
+    color: black;
+  
+}
+
+#cajaPrincipal main {
+  background-color: #fffcac;
+}
+
+
+#infoE {
+  padding: 5px;
+  font-size: 20px;
+  border: 5px solid rgba(0,0,0,0.5);
+  -webkit-box-shadow: 10px 10px 25px -9px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 25px -9px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 25px -9px rgba(0,0,0,0.75);
+}
+
+#infoE header, #cajaPrincipal footer {
+    background-color: #fffb92;
+    color: black;
+  
+}
+
+#infoE main {
+  background-color: #fffcac;
+}

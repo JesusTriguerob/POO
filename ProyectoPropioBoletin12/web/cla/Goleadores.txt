@@ -1,0 +1,11 @@
+___JUGADOR____EQUIPO____GF____PJ____G/P
+1__Messi_______Barcelona__36____34____1.06
+2__Suárez______Barcelona__21____33____0.64
+3__Benzema____ R. Madrid__21____36____0.58
+4__Aspas_______Celta_______20____27____0.74
+5__Stuani_______Girona_____19____32____0.59
+6__Ben Yedder__Sevilla______18____35____0.51
+7__Borja I.______Espanyol____17____37____0.46
+8__Griezmann__Atlético______15____37____0.41
+9__De Tomás___Rayo________14____33____0.42
+10_Charles_____Eibar________14____34____0.41

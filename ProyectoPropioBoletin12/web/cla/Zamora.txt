@@ -1,0 +1,12 @@
+
+Nombre____________________Coef.____GR____PJ
+1 Oblak (Atlético)____________0,73____27______37
+2 Ter Stegen (Barcelona)_____0,91____32_____35
+3 David Soria (Getafe)_______0,92____34_____37
+4 Neto (Valencia)____________1_______34____34
+5 Iago Herrerín (Athletic)_____1,03____32_____31
+6 Cuéllar (Leganés)__________1,12____38_____34
+7 Fernando Pacheco (Alavés)__1,31____46____35
+8 Masip (Valladolid)__________1,32____45____34
+9 Diego López (Espanyol)_____1,32____50____38
+10 Vaclik (Sevilla)____________1,33____44____33
