@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-may-2019, 9:19:11
+    Author     : Jesus Triguero
+*/
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: #242424 2px 2px 1px;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 32px;
+  font-size: 18px;
+}
+
+.blanco {
+  background-color: white;
+}
+
+.negro {
+  background-color: black;
+}
