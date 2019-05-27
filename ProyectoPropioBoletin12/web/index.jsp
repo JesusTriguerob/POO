@@ -69,7 +69,16 @@
                     </select>
                     <br><input type="submit" value="Ok" />
                 </form>
-                <br><br>
+                <form name="cuestionario" action="Formulario.jsp" method="POST">
+                    <h5> Formulario del visitante<br>
+                    Nombre<br>
+                    <input type="text" name="nombre" value="" /><br>
+                    Apellidos<br>
+                    <input type="text" name="Apellidos" value="" /><br>
+                    Equipo favorito<br>
+                    <input type="text" name="equipoFav" value="" /><br></h5>
+                    <input type="submit" value="Ok" />
+                </form>
                 <h2> <b>Otras opciones:</b></h2>
                 <form name="clas" action="otrasOpciones.jsp">
                     <select name="otrasOpciones">
